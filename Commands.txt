@@ -3,3 +3,15 @@ Powershell commands DSREGCMD /STATUS
 DS stands for Directory Services
 REG - Registration
 CMD - Command
+
+
+ADDS Database
+
+ADDS  DATABase	
+  Physical Components	    Logical Components
+  Data Store	            Partitions
+  Domain Controllers	    Schema
+  Global Catalog (GC)	    Sites
+  RODC	                  Domain
+                          Domain Trees
+                          Orgnization Units (OU)
