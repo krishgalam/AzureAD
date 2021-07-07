@@ -1,0 +1,5 @@
+Powershell commands DSREGCMD /STATUS
+
+DS stands for Directory Services
+REG - Registration
+CMD - Command
